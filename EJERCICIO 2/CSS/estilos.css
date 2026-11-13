@@ -1,0 +1,58 @@
+
+/* Selector de etiqueta */
+body {
+    background-color: #f0f4f8;
+    color: #243447;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    margin: 25px;
+}
+
+/* Selector de identificador */
+#titulo {
+    color: #145da0;
+    background-color: #d9eaf7;
+    text-align: center;
+    border: 3px solid #145da0;
+    padding: 15px;
+}
+
+/* Selector de etiqueta */
+h2 {
+    color: #167d7f;
+    font-size: 24px;
+    border-bottom: 2px solid #167d7f;
+    padding-bottom: 5px;
+}
+
+/* Selector de clase */
+.destacado {
+    background-color: #fff3cd;
+    color: #795500;
+    border: 1px solid #e0b84c;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Selector de etiqueta */
+p {
+    line-height: 1.6;
+}
+
+/* Cambiar las viñetas de las listas */
+ul {
+    list-style-type: square;
+}
+
+/* Cambiar las viñetas de las listas numeradas */
+ol {
+    list-style-type: upper-roman;
+}
+
+/* Modelo de cajas */
+section {
+    border: 1px solid #ccd6dd;
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 20px;
+}
